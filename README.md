@@ -1,1 +1,1 @@
-# prueba
+# Reconocimiento Óptico de Caracteres
